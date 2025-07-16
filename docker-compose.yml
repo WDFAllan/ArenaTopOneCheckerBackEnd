@@ -1,0 +1,25 @@
+services:
+  db:
+    image: postgres:latest
+    container_name: arenaTopOneCheckerDB
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: root
+      POSTGRES_DB: arenaTopOneCheckerDB
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+#  backend:
+#    build: .
+#    container_name: arenaTopOneChecker_back_container
+#    ports:
+#      - "8080:8080"
+#    environment:
+#      SPRING_DATASOURCE_URL: jdbc:postgresql://db:5432/arenaTopOneCheckerDB
+#      SPRING_DATASOURCE_USERNAME: postgres
+#      SPRING_DATASOURCE_PASSWORD: root
+#    depends_on:
+#      - db
+volumes:
+  postgres_data:

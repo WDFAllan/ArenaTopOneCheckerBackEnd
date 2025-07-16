@@ -1,0 +1,1491 @@
+[
+  {
+    "id": 266,
+    "name": "Aatrox",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/aatrox/",
+    "roles": [
+      "FIGHTER"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Ahri",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/ahri/",
+    "roles": [
+      "MAGE",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Akali",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/akali/",
+    "roles": [
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Akshan",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/akshan/",
+    "roles": [
+      "MARKSMAN",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Alistar",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/alistar/",
+    "roles": [
+      "TANK",
+      "SUPPORT"
+    ]
+  },
+  {
+    "id": 799,
+    "name": "Ambessa",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/ambessa/",
+    "roles": [
+      "FIGHTER",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Amumu",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/amumu/",
+    "roles": [
+      "TANK",
+      "SUPPORT"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Anivia",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/anivia/",
+    "roles": [
+      "MAGE"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Annie",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/annie/",
+    "roles": [
+      "MAGE",
+      "SUPPORT"
+    ]
+  },
+  {
+    "id": 523,
+    "name": "Aphelios",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/aphelios/",
+    "roles": [
+      "MARKSMAN"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Ashe",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/ashe/",
+    "roles": [
+      "MARKSMAN",
+      "SUPPORT"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Aurelion Sol",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/aurelionsol/",
+    "roles": [
+      "MAGE"
+    ]
+  },
+  {
+    "id": 893,
+    "name": "Aurora",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/aurora/",
+    "roles": [
+      "MAGE",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 268,
+    "name": "Azir",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/azir/",
+    "roles": [
+      "MAGE",
+      "MARKSMAN"
+    ]
+  },
+  {
+    "id": 432,
+    "name": "Bard",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/bard/",
+    "roles": [
+      "SUPPORT",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 200,
+    "name": "Bel'Veth",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/belveth/",
+    "roles": [
+      "FIGHTER"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Blitzcrank",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/blitzcrank/",
+    "roles": [
+      "TANK",
+      "SUPPORT"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Brand",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/brand/",
+    "roles": [
+      "MAGE",
+      "SUPPORT"
+    ]
+  },
+  {
+    "id": 201,
+    "name": "Braum",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/braum/",
+    "roles": [
+      "TANK",
+      "SUPPORT"
+    ]
+  },
+  {
+    "id": 233,
+    "name": "Briar",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/briar/",
+    "roles": [
+      "FIGHTER",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Caitlyn",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/caitlyn/",
+    "roles": [
+      "MARKSMAN"
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Camille",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/camille/",
+    "roles": [
+      "FIGHTER",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Cassiopeia",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/cassiopeia/",
+    "roles": [
+      "MAGE"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Cho'Gath",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/chogath/",
+    "roles": [
+      "TANK",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Corki",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/corki/",
+    "roles": [
+      "MARKSMAN",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Darius",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/darius/",
+    "roles": [
+      "FIGHTER",
+      "TANK"
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Diana",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/diana/",
+    "roles": [
+      "FIGHTER",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Dr. Mundo",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/drmundo/",
+    "roles": [
+      "TANK",
+      "FIGHTER"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Draven",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/draven/",
+    "roles": [
+      "MARKSMAN"
+    ]
+  },
+  {
+    "id": 245,
+    "name": "Ekko",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/ekko/",
+    "roles": [
+      "ASSASSIN",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Elise",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/elise/",
+    "roles": [
+      "ASSASSIN",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Evelynn",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/evelynn/",
+    "roles": [
+      "ASSASSIN",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Ezreal",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/ezreal/",
+    "roles": [
+      "MARKSMAN",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Fiddlesticks",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/fiddlesticks/",
+    "roles": [
+      "MAGE",
+      "SUPPORT"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Fiora",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/fiora/",
+    "roles": [
+      "FIGHTER",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Fizz",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/fizz/",
+    "roles": [
+      "ASSASSIN",
+      "FIGHTER"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Galio",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/galio/",
+    "roles": [
+      "TANK",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Gangplank",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/gangplank/",
+    "roles": [
+      "FIGHTER"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Garen",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/garen/",
+    "roles": [
+      "FIGHTER",
+      "TANK"
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Gnar",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/gnar/",
+    "roles": [
+      "FIGHTER",
+      "TANK"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Gragas",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/gragas/",
+    "roles": [
+      "FIGHTER",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Graves",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/graves/",
+    "roles": [
+      "MARKSMAN"
+    ]
+  },
+  {
+    "id": 887,
+    "name": "Gwen",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/gwen/",
+    "roles": [
+      "FIGHTER"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Hecarim",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/hecarim/",
+    "roles": [
+      "FIGHTER",
+      "TANK"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Heimerdinger",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/heimerdinger/",
+    "roles": [
+      "MAGE",
+      "SUPPORT"
+    ]
+  },
+  {
+    "id": 910,
+    "name": "Hwei",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/hwei/",
+    "roles": [
+      "MAGE",
+      "SUPPORT"
+    ]
+  },
+  {
+    "id": 420,
+    "name": "Illaoi",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/illaoi/",
+    "roles": [
+      "FIGHTER",
+      "TANK"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Irelia",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/irelia/",
+    "roles": [
+      "FIGHTER",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 427,
+    "name": "Ivern",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/ivern/",
+    "roles": [
+      "SUPPORT",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Janna",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/janna/",
+    "roles": [
+      "SUPPORT",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Jarvan Iv",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/jarvaniv/",
+    "roles": [
+      "FIGHTER",
+      "TANK"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Jax",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/jax/",
+    "roles": [
+      "FIGHTER"
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Jayce",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/jayce/",
+    "roles": [
+      "MARKSMAN",
+      "FIGHTER"
+    ]
+  },
+  {
+    "id": 202,
+    "name": "Jhin",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/jhin/",
+    "roles": [
+      "MARKSMAN",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 222,
+    "name": "Jinx",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/jinx/",
+    "roles": [
+      "MARKSMAN"
+    ]
+  },
+  {
+    "id": 897,
+    "name": "K'Santé",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/ksante/",
+    "roles": [
+      "TANK",
+      "FIGHTER"
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Kai'Sa",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/kaisa/",
+    "roles": [
+      "MARKSMAN",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 429,
+    "name": "Kalista",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/kalista/",
+    "roles": [
+      "MARKSMAN"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Karma",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/karma/",
+    "roles": [
+      "MAGE",
+      "SUPPORT"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Karthus",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/karthus/",
+    "roles": [
+      "MAGE"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Kassadin",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/kassadin/",
+    "roles": [
+      "ASSASSIN",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Katarina",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/katarina/",
+    "roles": [
+      "ASSASSIN",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Kayle",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/kayle/",
+    "roles": [
+      "MAGE",
+      "MARKSMAN"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Kayn",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/kayn/",
+    "roles": [
+      "FIGHTER",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Kennen",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/kennen/",
+    "roles": [
+      "MAGE"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Kha'Zix",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/khazix/",
+    "roles": [
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Kindred",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/kindred/",
+    "roles": [
+      "MARKSMAN"
+    ]
+  },
+  {
+    "id": 240,
+    "name": "Kled",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/kled/",
+    "roles": [
+      "FIGHTER"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Kog'Maw",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/kogmaw/",
+    "roles": [
+      "MARKSMAN",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 7	,
+    "name": "Leblanc",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/leblanc/",
+    "roles": [
+      "ASSASSIN",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Lee Sin",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/leesin/",
+    "roles": [
+      "FIGHTER",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Leona",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/leona/",
+    "roles": [
+      "TANK",
+      "SUPPORT"
+    ]
+  },
+  {
+    "id": 876,
+    "name": "Lillia",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/lillia/",
+    "roles": [
+      "FIGHTER",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Lissandra",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/lissandra/",
+    "roles": [
+      "MAGE"
+    ]
+  },
+  {
+    "id": 236,
+    "name": "Lucian",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/lucian/",
+    "roles": [
+      "MARKSMAN",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Lulu",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/lulu/",
+    "roles": [
+      "SUPPORT",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Lux",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/lux/",
+    "roles": [
+      "MAGE",
+      "SUPPORT"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Malphite",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/malphite/",
+    "roles": [
+      "TANK",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Malzahar",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/malzahar/",
+    "roles": [
+      "MAGE"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Maokai",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/maokai/",
+    "roles": [
+      "TANK",
+      "SUPPORT"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "MasterYi",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/masteryi/",
+    "roles": [
+      "ASSASSIN",
+      "FIGHTER"
+    ]
+  },
+  {
+    "id": 800,
+    "name": "Mel",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/mel/",
+    "roles": [
+      "MAGE",
+      "SUPPORT"
+    ]
+  },
+  {
+    "id": 902,
+    "name": "Milio",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/milio/",
+    "roles": [
+      "SUPPORT",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Miss Fortune",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/missfortune/",
+    "roles": [
+      "MARKSMAN",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Mordekaiser",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/mordekaiser/",
+    "roles": [
+      "FIGHTER",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Morgana",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/morgana/",
+    "roles": [
+      "MAGE",
+      "SUPPORT"
+    ]
+  },
+  {
+    "id": 950,
+    "name": "Naafiri",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/naafiri/",
+    "roles": [
+      "ASSASSIN",
+      "FIGHTER"
+    ]
+  },
+  {
+    "id": 267,
+    "name": "Nami",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/nami/",
+    "roles": [
+      "SUPPORT",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Nasus",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/nasus/",
+    "roles": [
+      "FIGHTER",
+      "TANK"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Nautilus",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/nautilus/",
+    "roles": [
+      "TANK",
+      "SUPPORT"
+    ]
+  },
+  {
+    "id": 518,
+    "name": "Neeko",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/neeko/",
+    "roles": [
+      "MAGE",
+      "SUPPORT"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Nidalee",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/nidalee/",
+    "roles": [
+      "ASSASSIN",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 895,
+    "name": "Nilah",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/nilah/",
+    "roles": [
+      "FIGHTER",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Nocturne",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/nocturne/",
+    "roles": [
+      "FIGHTER",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Nunu & Willump",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/nunu/",
+    "roles": [
+      "TANK",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Olaf",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/olaf/",
+    "roles": [
+      "FIGHTER",
+      "TANK"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Orianna",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/orianna/",
+    "roles": [
+      "MAGE",
+      "SUPPORT"
+    ]
+  },
+  {
+    "id": 516,
+    "name": "Ornn",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/ornn/",
+    "roles": [
+      "TANK"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Pantheon",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/pantheon/",
+    "roles": [
+      "FIGHTER",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Poppy",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/poppy/",
+    "roles": [
+      "TANK",
+      "FIGHTER"
+    ]
+  },
+  {
+    "id": 555,
+    "name": "Pyke",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/pyke/",
+    "roles": [
+      "SUPPORT",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 246,
+    "name": "Qiyana",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/qiyana/",
+    "roles": [
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Quinn",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/quinn/",
+    "roles": [
+      "MARKSMAN",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 497,
+    "name": "Rakan",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/rakan/",
+    "roles": [
+      "SUPPORT"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Rammus",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/rammus/",
+    "roles": [
+      "TANK"
+    ]
+  },
+  {
+    "id": 421,
+    "name": "Rek'Sai",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/reksai/",
+    "roles": [
+      "FIGHTER",
+      "TANK"
+    ]
+  },
+  {
+    "id": 526,
+    "name": "Rell",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/rell/",
+    "roles": [
+      "TANK",
+      "SUPPORT"
+    ]
+  },
+  {
+    "id": 888,
+    "name": "Renata glasc",
+    "imageimageUrl": "https://www.leagueoflegends.com/fr-fr/champions/renata/",
+    "roles": [
+      "SUPPORT",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Renekton",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/renekton/",
+    "roles": [
+      "FIGHTER",
+      "TANK"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Rengar",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/rengar/",
+    "roles": [
+      "ASSASSIN",
+      "FIGHTER"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Riven",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/riven/",
+    "roles": [
+      "FIGHTER",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Rumble",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/rumble/",
+    "roles": [
+      "FIGHTER",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Ryze",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/ryze/",
+    "roles": [
+      "MAGE"
+    ]
+  },
+  {
+    "id": 360,
+    "name": "Samira",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/samira/",
+    "roles": [
+      "MARKSMAN",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Sejuani",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/sejuani/",
+    "roles": [
+      "TANK"
+    ]
+  },
+  {
+    "id": 235,
+    "name": "Senna",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/senna/",
+    "roles": [
+      "SUPPORT",
+      "MARKSMAN"
+    ]
+  },
+  {
+    "id": 875,
+    "name": "Sett",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/sett/",
+    "roles": [
+      "FIGHTER",
+      "TANK"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Shaco",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/shaco/",
+    "roles": [
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Shen",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/shen/",
+    "roles": [
+      "TANK"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Shyvana",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/shyvana/",
+    "roles": [
+      "FIGHTER",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Singed",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/singed/",
+    "roles": [
+      "TANK",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Sion",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/sion/",
+    "roles": [
+      "TANK",
+      "FIGHTER"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Sivir",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/sivir/",
+    "roles": [
+      "MARKSMAN"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Skarner",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/skarner/",
+    "roles": [
+      "TANK",
+      "FIGHTER"
+    ]
+  },
+  {
+    "id": 901,
+    "name": "Smolder",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/smolder/",
+    "roles": [
+      "MARKSMAN",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Sona",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/sona/",
+    "roles": [
+      "SUPPORT",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Soraka",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/soraka/",
+    "roles": [
+      "SUPPORT",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Swain",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/swain/",
+    "roles": [
+      "MAGE",
+      "SUPPORT"
+    ]
+  },
+  {
+    "id": 517,
+    "name": "Sylas",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/sylas/",
+    "roles": [
+      "MAGE",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Syndra",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/syndra/",
+    "roles": [
+      "MAGE"
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Séraphine",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/seraphine/",
+    "roles": [
+      "SUPPORT",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 223,
+    "name": "Tahm Kench",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/tahmkench/",
+    "roles": [
+      "TANK",
+      "SUPPORT"
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Taliyah",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/taliyah/",
+    "roles": [
+      "MAGE",
+      "SUPPORT"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Talon",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/talon/",
+    "roles": [
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Taric",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/taric/",
+    "roles": [
+      "SUPPORT",
+      "TANK"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Teemo",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/teemo/",
+    "roles": [
+      "MARKSMAN",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 412,
+    "name": "Thresh",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/thresh/",
+    "roles": [
+      "SUPPORT",
+      "TANK"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Tristana",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/tristana/",
+    "roles": [
+      "MARKSMAN",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Trundle",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/trundle/",
+    "roles": [
+      "FIGHTER",
+      "TANK"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Tryndamere",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/tryndamere/",
+    "roles": [
+      "FIGHTER",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Twisted Fate",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/twistedfate/",
+    "roles": [
+      "MAGE",
+      "MARKSMAN"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Twitch",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/twitch/",
+    "roles": [
+      "MARKSMAN",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Udyr",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/udyr/",
+    "roles": [
+      "FIGHTER",
+      "TANK"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Urgot",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/urgot/",
+    "roles": [
+      "FIGHTER",
+      "TANK"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Varus",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/varus/",
+    "roles": [
+      "MARKSMAN",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Vayne",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/vayne/",
+    "roles": [
+      "MARKSMAN",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Veigar",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/veigar/",
+    "roles": [
+      "MAGE"
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Vel'Koz",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/velkoz/",
+    "roles": [
+      "MAGE",
+      "SUPPORT"
+    ]
+  },
+  {
+    "id": 711,
+    "name": "Vex",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/vex/",
+    "roles": [
+      "MAGE"
+    ]
+  },
+  {
+    "id": 254,
+    "name": "Vi",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/vi/",
+    "roles": [
+      "FIGHTER",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 234,
+    "name": "Viego",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/viego/",
+    "roles": [
+      "FIGHTER",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Viktor",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/viktor/",
+    "roles": [
+      "MAGE"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Vladimir",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/vladimir/",
+    "roles": [
+      "MAGE",
+      "FIGHTER"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Volibear",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/volibear/",
+    "roles": [
+      "FIGHTER",
+      "TANK"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Warwick",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/warwick/",
+    "roles": [
+      "FIGHTER",
+      "TANK"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Wukong",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/monkeyking/",
+    "roles": [
+      "FIGHTER",
+      "TANK"
+    ]
+  },
+  {
+    "id": 498,
+    "name": "Xayah",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/xayah/",
+    "roles": [
+      "MARKSMAN"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Xerath",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/xerath/",
+    "roles": [
+      "MAGE",
+      "SUPPORT"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Xin Zhao",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/xinzhao/",
+    "roles": [
+      "FIGHTER",
+      "TANK"
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Yasuo",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/yasuo/",
+    "roles": [
+      "FIGHTER",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 777,
+    "name": "Yone",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/yone/",
+    "roles": [
+      "FIGHTER",
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Yorick",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/yorick/",
+    "roles": [
+      "FIGHTER",
+      "TANK"
+    ]
+  },
+  {
+    "id": 350,
+    "name": "Yuumi",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/yuumi/",
+    "roles": [
+      "SUPPORT",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Zac",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/zac/",
+    "roles": [
+      "TANK",
+      "FIGHTER"
+    ]
+  },
+  {
+    "id": 238,
+    "name": "Zed",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/zed/",
+    "roles": [
+      "ASSASSIN"
+    ]
+  },
+  {
+    "id": 221,
+    "name": "Zeri",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/zeri/",
+    "roles": [
+      "MARKSMAN"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Ziggs",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/ziggs/",
+    "roles": [
+      "MAGE"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Zilean",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/zilean/",
+    "roles": [
+      "SUPPORT",
+      "MAGE"
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Zoé",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/zoe/",
+    "roles": [
+      "MAGE"
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Zyra",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/zyra/",
+    "roles": [
+      "MAGE",
+      "SUPPORT"
+    ]
+  }
+]
