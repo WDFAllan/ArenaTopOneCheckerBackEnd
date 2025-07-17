@@ -13,7 +13,7 @@ FROM eclipse-temurin:21-jre-alpine
 WORKDIR /app
 
 # Copier le JAR dans l'image (remplace le chemin si tu build local)
-COPY target/app-0.0.1-SNAPSHOT.jar app.jar
+COPY app/target/app-0.0.1-SNAPSHOT.jar app.jar
 
 # Exposer le port 8080 (port par défaut Spring Boot)
 EXPOSE 8080
