@@ -1,7 +1,6 @@
 package com.example.adapters;
 
 import com.example.port.RiotPort;
-import com.fasterxml.jackson.core.ObjectCodec;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
@@ -16,7 +15,7 @@ import java.util.*;
 @Component
 public class RiotAdapter implements RiotPort {
 
-    @Value("${riot.api-key}")
+    @Value("${api.key}")
     private String apiKey;
 
     private final RestTemplate restTemplate = new RestTemplate();
@@ -29,11 +28,11 @@ public class RiotAdapter implements RiotPort {
 
     @Override
     public String getSummonerPuuid(String summonerName) {
-
+        System.out.println(summonerName);
         String[] parts = summonerName.split("#");
 
         if (parts.length != 2) {
-            throw new IllegalArgumentException("Format attendu: Nom#TAG (ex: DarkVoid#EUW)");
+            throw new IllegalArgumentException("Format attendu: Nom#TAG (ex: DarkVoid#EUW) :" + summonerName);
         }
 
         String username = parts[0];

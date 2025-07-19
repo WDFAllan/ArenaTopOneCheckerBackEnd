@@ -1430,6 +1430,15 @@
     ]
   },
   {
+    "id": 804,
+    "name": "Yunara",
+    "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/yunara/",
+    "roles": [
+      "MARKSMAN"
+    ]
+
+  },
+  {
     "id": 154,
     "name": "Zac",
     "imageUrl": "https://www.leagueoflegends.com/fr-fr/champions/zac/",
