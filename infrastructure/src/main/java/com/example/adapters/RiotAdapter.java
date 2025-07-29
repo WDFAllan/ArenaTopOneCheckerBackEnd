@@ -78,7 +78,7 @@ public class RiotAdapter implements RiotPort {
     public List<String> getArenaLastMatchesIds(String puuid) {
         List<String> matchesId = new ArrayList<>();
         int start = 0;
-        int count = 25;
+        int count = 97;
         boolean hasMore = true;
 
         while (hasMore) {
