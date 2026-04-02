@@ -39,8 +39,11 @@ The application follows a clean and modular architecture, making it easy to main
 
 src/
 ├── controller # API endpoints
+
 ├── service # Business logic
+
 ├── repository # Data access layer
+
 ├── model # Domain models
 
 ---
